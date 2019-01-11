@@ -1,0 +1,22 @@
+form {
+    border: 1px solid black;
+    margin: 30px, 30px;
+}
+
+button {
+    margin-left: 300px;
+}
+
+#inp {
+    margin-left: 300px;
+
+}
+#textarea2 {
+    margin-left: 300px;
+    
+}
+header {
+    font-size: 40px;
+    margin-left: 300px;
+
+}
